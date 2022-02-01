@@ -6,7 +6,7 @@
 
 
 ## About me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Programer;I+am+a+Student:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Programer;I+am+a+Student)](https://git.io/typing-svg)
 
 * 🖥️ I am a Python Programer
 * 👯 I am looking for internship in Data science 
