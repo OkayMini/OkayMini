@@ -20,4 +20,6 @@ Basic EDA
 ## Certificate 
 
 [Python (Basic)](https://www.hackerrank.com/certificates/c387c2dfca92)
+[Data Analysis Using Python]([https://www.hackerrank.com/certificates/c387c2dfca92](https://www.credly.com/badges/97e50233-6d2f-4fc7-8e7f-a118b4fe75a9?source=linked_in_profile))
+
 
