@@ -19,5 +19,5 @@ Basic EDA
 
 ## Certificate 
 
-[hackerrank](https://www.hackerrank.com/certificates/c387c2dfca92)
+[Python (Basic)](https://www.hackerrank.com/certificates/c387c2dfca92)
 
