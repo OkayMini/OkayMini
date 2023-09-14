@@ -14,8 +14,8 @@
 
 ## 🛠 Skills
 Pyhton  
-Problam solving  
-Basic EDA
+Problem solving  
+EDA
 
 ## Certificate 
 
